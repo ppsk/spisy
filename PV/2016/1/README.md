@@ -67,3 +67,6 @@ Statutar
   * sprava obc. sdruz.
   * komunikace s MV
   * rizeni (koordinace) pripravneho vyboru (7 zakladnich dustojniku)
+
+
+Dalsi poznamky jsou v [PP-SK.pdf](https://github.com/ppsk/spisy/blob/master/PV/2016/1/PP-SK.pdf)
