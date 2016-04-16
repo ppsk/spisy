@@ -57,7 +57,7 @@ FO
 ===
   * Financovani kampane
     * kickstarter - napr. Indiegogo
-  * Rozpocet (navrh, schvali zbytek PV, nasledne RP a RV)
+  * Rozpocet (navrh, schvali PV, resp. nasledne RP a RV)
   * Transparentni ucty
   * *Logistika materialu: darku z fundraisingu, sprava skladu, zajisteni propagacnich materialu (kooperace MO, FO, PO)*
 
