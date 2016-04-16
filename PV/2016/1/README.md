@@ -22,7 +22,7 @@ Byrokracie
 * zakladni ukoly:
   * nastavit procesy pro sberna mista
   * vytvorit haroky (mozna jiz jsou nekde v analech na foru)
-  * udrzovat spisovnu na githubu, naucit dalsi dustojniky delat zapisy z porad (napr. Sablona)
+  * udrzovat spisovnu na githubu, naucit dalsi dustojniky delat zapisy z porad (napr. Sablona) a dokumentovat svoji cinnost, tak aby se novi lide mohli rychle zapojovat
 
 RV
 ==
