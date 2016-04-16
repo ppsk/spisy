@@ -1,5 +1,6 @@
+PV 1/2016
 
-Komentar k organizacni strukture (PV 1/2016)
+Organizacni struktura
 ===
 Zaklad tvori skupina 7 dustojniku. Ne vice! Tato skupina koordinuje cely proces vzniku strany. Musi se schazet alespon 1x za dva tydny a domlouvat dalsi spolecny postup.
 Jednotlivi dustojnici maji vymezene zakladni ukoly. Musi byt tymovi hraci, jelikoz spolupracuji navzajem jako pripravny vybor, musi byt zapaleni pro myslenku Piratu na Slovensku a musi je bavit pridelena oblast. Ze zacatku plni ukoly sami, ale jednim z jejich cilu je vybudovani tymu, ktery resi prislusnou agendu:
