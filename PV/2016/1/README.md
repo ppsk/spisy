@@ -22,7 +22,7 @@ Byrokracie
 * zakladni ukoly:
   * nastavit procesy pro sberna mista
   * vytvorit haroky (mozna jiz jsou nekde v analech na foru)
-  * udrzovat spisovnu na githubu, naucit dalsi dustojniky delat zapisy z porad (napr. Sablona)
+  * udrzovat spisovnu na githubu, naucit dalsi dustojniky delat zapisy z porad (napr. Sablona) a dokumentovat svoji cinnost tak, aby se novi lide mohli rychle zapojovat
 
 RV
 ==
@@ -57,7 +57,7 @@ FO
 ===
   * Financovani kampane
     * kickstarter - napr. Indiegogo
-  * Rozpocet (navrh, schvali zbytek PV, nasledne RP a RV)
+  * Rozpocet (navrh, schvali PV, resp. nasledne RP a RV)
   * Transparentni ucty
   * *Logistika materialu: darku z fundraisingu, sprava skladu, zajisteni propagacnich materialu (kooperace MO, FO, PO)*
 
@@ -67,3 +67,6 @@ Statutar
   * sprava obc. sdruz.
   * komunikace s MV
   * rizeni (koordinace) pripravneho vyboru (7 zakladnich dustojniku)
+
+
+Dalsi poznamky jsou v [PP-SK.pdf](https://github.com/ppsk/spisy/blob/master/PV/2016/1/PP-SK.pdf)
