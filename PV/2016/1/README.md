@@ -9,7 +9,7 @@ MO
 ==
 Medialni komunikace smerem ven
 * napr. poddustojnici zodpovedni za jednotlive komunikacni kanaly (FB, Twitter, G+?, web, youtube?)
-* navzajem si urci medialni strategii, ale kazdy pak ma odpovednost za svuj kanal
+  * navzajem si urci medialni strategii, ale kazdy pak ma odpovednost za svuj kanal
 * dalsi mozni poddustojnici: tiskovy mluvci, pisalek, grafik, ..... vytvarejici obsah (vzdy ale max. 7 poddustojniku na kazde urovni! cili mozna tym “spravci” a tym “tvurci”)
 * zakladni ukoly:
   * zalozit komunikacni kanaly na socialnich sitich a udrzovat je pri zivote
@@ -38,21 +38,20 @@ technicka podpora
   * zakladni ukoly:
     * vytvorit web
       * zaklad je na https://github.com/ppsk/web2
-    * grafika a obsah po domluve s MO, udelat technickou stranku, aby se jim s tim pohodlne pracovalo
+      * grafika a obsah po domluve s MO, udelat technickou stranku, aby se jim s tim pohodlne pracovalo
     * domena
-    * mit evidenci clenu a priznivcu (pro zacatek mame mailchimp pro newslettery a seznam e-mailu)	
-    * vybrat a provozovat technicke platformy dle potreby dalsich organu, sprava uzivatelu etc.
+    * mit evidenci clenu a priznivcu po technicke strance (pro zacatek mame mailchimp pro newslettery a seznam e-mailu)	
+    * vybirat, nasazovat a provozovat technicke platformy dle potreby dalsich organu, sprava uzivatelu etc.
 
 PO
 ===
-  * Prace s lidmi, komunikace  s dobrovolniky smerem dovnitr,, evidence potencialnich clenu a priznivcu
-  * logistika sbernych mist (aby vsude byl dostatecny pocet haroku a propagacnich materialu, vznikala nova mista atd.)
+  * Prace s lidmi, komunikace  s dobrovolniky smerem dovnitr, evidence potencialnich clenu a priznivcu
   * vitani novych priznivcu a jejich zapojovani do kampane
   * zakladni ukoly
     * infostranka s moznostmi, jak se zapojit
     * uvitacka novym zajemcum
     * pravidelne newslettery o prubehu kampane (co se povedlo, jake jsou aktualne moznosti neco delat)
-    * *logistika sbernych mist*
+    * logistika sbernych mist (komunikace se spravci sbernych mist, aby vsude byl dostatecny pocet haroku a propagacnich materialu, komunikace s dalsimi zajemci, aby vznikala nova mista atd.)
 
 FO
 ===
@@ -60,7 +59,7 @@ FO
     * kickstarter - napr. Indiegogo
   * Rozpocet (navrh, schvali zbytek PV, nasledne RP a RV)
   * Transparentni ucty
-  * Logistika darku z fundraisingu, sprava skladu, zajisteni propagacnich materialu (kooperace MO, FO, PO)
+  * *Logistika materialu: darku z fundraisingu, sprava skladu, zajisteni propagacnich materialu (kooperace MO, FO, PO)*
 
 RP
 ===
